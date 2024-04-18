@@ -1,4 +1,4 @@
-This repository contains a formulation of the Eddy Diffusion Model created as part of an undergraduate research project. 
+This repository contains an open source formulation of the Eddy Diffusion Model created as part of an undergraduate research project. 
 
 
 *************************************************************
